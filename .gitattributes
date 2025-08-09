@@ -1,0 +1,8 @@
+*.h linguist-detectable=false
+*.cc linguist-detectable=false
+*.cpp linguist-detectable=false
+*.c linguist-detectable=false
+*.m linguist-detectable=false
+*.mm linguist-detectable=false
+*.podspec linguist-detectable=false
+*.xcconfig linguist-detectable=false
